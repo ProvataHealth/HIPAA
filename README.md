@@ -18,3 +18,9 @@ Once you have Middleman installed and working you can complete the following to 
 - `rake run` allows you to view the site locally
 - `rake sass` compiles styles changes
 - `rake serve_static` runs a simple web server in the build directory
+
+  ## Attribution
+
+  [Catalyze.io](htts://catalyze.io) open-sourced their HIPAA Docs [on Github](https://github.com/catalyzeio/policies) and allowed us to use them as a starting point.
+
+  These HIPAA Docs are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
