@@ -14,7 +14,7 @@ Risk Management (Req) | Implement security measures sufficient to reduce risks a
 Sanction Policy (Req) | Apply appropriate sanctions against workforce members who fail to comply with the security policies and procedures of the covered entity.
 Information System Activity Review (Req) | Implement procedures to regularly review records of information system activity, such as audit logs, access reports, and security incident tracking reports.
 
-Provata Health, Inc. has a risk management policy that defines the risk analysis and risk management process. This policy is operationalized with processes to conduct regularly risk assessments. Provata Health uses NIST800-30 and 800-26 for performing risk analysis. Our policy begins with an inventory of all Provata Health systems, mapping of where ePHI is processed, transmitted, or stored, identification of threats, risks, and likelihood, and the mitigation of risks. Policies address risk inherent within the environment and mitigating the risk to an acceptable and reasonable level.
+Provata Health has a risk management policy that defines the risk analysis and risk management process. This policy is operationalized with processes to conduct regularly risk assessments. Provata Health uses NIST800-30 and 800-26 for performing risk analysis. Our policy begins with an inventory of all Provata Health systems, mapping of where ePHI is processed, transmitted, or stored, identification of threats, risks, and likelihood, and the mitigation of risks. Policies address risk inherent within the environment and mitigating the risk to an acceptable and reasonable level.
 
 Provata Health has a Sanction Policy that has sanctions for employees not adhering to certain policies, and for specifically violating HIPAA rules.
 
@@ -38,7 +38,7 @@ Authorization and/or Supervision (A) | Implement procedures for the authorizatio
 Workforce Clearance Procedure (A) | Implement procedures to determine that the access of a workforce member to electronic protected health information is appropriate.
 Termination Procedures (A) | Implement procedures for terminating access to electronic protected health information when the employment of a workforce member ends or as required by determinations made as specified in paragraph (a)(3)(ii)(B) [Workforce Clearance Procedures] of this section.
 
-Provata Health, Inc. has policies in place that require workforce members requesting access to ePHI to submit an authorization form that is signed and acknowledges their responsibility of safeguarding ePHI. The form must also be approved by the Security Officer. Once signed and approved, then the individual will be provisioned access to systems deemed business necessary. All Access to ePHI is based on minimum necessary requirements and least privilege. Provata Health cannot access ePHI unless customers explicitly grant access.
+Provata Health has policies in place that require workforce members requesting access to ePHI to submit an authorization form that is signed and acknowledges their responsibility of safeguarding ePHI. The form must also be approved by the Security Officer. Once signed and approved, then the individual will be provisioned access to systems deemed business necessary. All Access to ePHI is based on minimum necessary requirements and least privilege. Provata Health cannot access ePHI unless customers explicitly grant access.
 
 Provata Health policies define the immediate removal of access once an employee has been terminated, with the Security Officer responsible for terminating the access. Once HR initiates the termination process the termination checklist is referenced to ensure necessary actions are taken to remove systems and facilities access.
 
@@ -51,7 +51,7 @@ Isolating Health care Clearinghouse Function (Req) | If a health care clearingho
 Access Authorization (A) | Implement policies and procedures for granting access to electronic protected health information, for example, through access to a workstation, transaction, program, process, or other mechanism.
 Access Establishment and Modification (A) | Implement policies and procedures that, based upon the entity's access authorization policies, establish, document, review, and modify a user's right of access to a workstation, transaction, program, or process.
 
-Provata Health, Inc. does not perform the functions of a Healthcare Clearinghouse so aspects of this section are not applicable.
+Provata Health does not perform the functions of a Healthcare Clearinghouse so aspects of this section are not applicable.
 
 The security officer determines the roles necessary for each system and application. When access is needed to Provata Health infrastructure, a request and acknowledgement form is signed and then approved by the Security Officer.
 
@@ -62,7 +62,7 @@ Provata Health has a formal process for requesting additional access to ePHI, an
 
 Standard | Description
 --------- | -----------
-Security Reminders (A) | Periodic security updates to all members of Provata Health, Inc.
+Security Reminders (A) | Periodic security updates to all members of Provata Health.
 Protection from Malicious Software (A) | Procedures for guarding against, detecting, and reporting malicious software.
 Log-in Monitoring (A) | Procedures for monitoring log-in attempts and reporting discrepancies.
 Password Management (A) | Procedures for creating, changing, and safeguarding passwords.
@@ -112,7 +112,7 @@ Standard | Description
 --------- | -----------
 Evaluation (Req) | Perform a periodic technical and non-technical evaluation, based initially upon the standards implemented under this rule and subsequently, in response to environmental or operational changes affecting the security of electronic PHI that establishes the extent to which an entity's security policies and procedures meet the requirements of this subpart.
 
-Provata Health, Inc. has formal internal policies and procedures for conducting periodic technical and non-technical testing. These define procedures for performing quarterly internal and external vulnerability scanning, as well as annual penetration testing. Vulnerability scanning is performed regularly on a weekly basis and with any major changes in infrastructure. Additionally, non-technical evaluations occur on an annual basis to ensure that the security posture of Provata Health is at the defined level, approved by management, and communicated down to Provata Health employees.
+Provata Health has formal internal policies and procedures for conducting periodic technical and non-technical testing. These define procedures for performing quarterly internal and external vulnerability scanning, as well as annual penetration testing. Vulnerability scanning is performed regularly on a weekly basis and with any major changes in infrastructure. Additionally, non-technical evaluations occur on an annual basis to ensure that the security posture of Provata Health is at the defined level, approved by management, and communicated down to Provata Health employees.
 
 
 ##Business Associate Contracts and Other Arrangement - 164.308(b)(1)
@@ -121,4 +121,4 @@ Standard | Description
 --------- | -----------
 Written Contract or Other Arrangement (Req) | A covered entity, in accordance with Â§ 164.306 [Security Standards: General Rules], may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entityâ€™s behalf only if the covered entity obtains satisfactory assurances, in accordance with Â§ 164.314(a) [Business Associate Contracts or Other Arrangements] that the business associate will appropriately safeguard the information. Document the satisfactory assurances required by paragraph (b)(1) [Business Associate Contracts and Other Arrangements] of this section through a written contract or other arrangement with the business associate that meets the applicable requirements of Â§ 164.314(a) [Business Associate Contracts or Other Arrangements].
 
-Provata Health, Inc. has a formalized template, as well as policies in place regarding Business Associate Agreements and written contracts. Provata Health has engaged a third party provider for hosting responsibilities and has written attestations of safeguarding its data. Additionally, Provata Health performs due diligence in assuring that third party providers they select go through their due diligence process and provide services consistent with Provata Health's security and compliance posture.
+Provata Health has a formalized template, as well as policies in place regarding Business Associate Agreements and written contracts. Provata Health has engaged a third party provider for hosting responsibilities and has written attestations of safeguarding its data. Additionally, Provata Health performs due diligence in assuring that third party providers they select go through their due diligence process and provide services consistent with Provata Health's security and compliance posture.

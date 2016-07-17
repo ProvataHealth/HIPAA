@@ -12,7 +12,7 @@ Facility Security Plan (A) | Implement policies and procedures to safeguard the 
 Access Control and Validation Procedures (A) | Implement procedures to control and validate a person's access to facilities based on their role or function, including visitor control, and control of access to software programs for testing and revision.
 Maintenance Records (A) | Implement policies and procedures to document repairs and modifications to the physical components of a facility which are related to security (for example, hardware, walls, doors, and locks).
 
-Provata Health, Inc. infrastructure supporting its environments is hosted at Rackspace, AWS (Amazon Web Services) and Azure, which provides hosting and recovery services for the infrastructure.
+Provata Health infrastructure supporting its environments is hosted at Rackspace, AWS (Amazon Web Services) and Azure, which provides hosting and recovery services for the infrastructure.
 
 Provata Health headquarters also has any written policies and procedures for safeguarding the corporate location, which includes workstations with access to the environment, from unauthorized physical access. Smart locks are used to track access and all visitors are logged and escorted.
 
@@ -25,7 +25,7 @@ Standard | Description
 --------- | -----------
 Workstation Use (Req) | Implement policies and procedures that specify the proper functions to be performed, the manner in which those functions are to be performed, and the physical attributes of the surroundings of a specific workstation or class of workstation that can access ePHI.
 
-Provata Health, Inc. has policies in place that define the acceptable uses in place for workstations within the environment. These policies define the acceptable and unauthorized uses of personnel that provided workstations with access to systems potentially interacting with ePHI. These policies are enforced on all workstations. All internal email uses HIPAA-compliant vendors.
+Provata Health has policies in place that define the acceptable uses in place for workstations within the environment. These policies define the acceptable and unauthorized uses of personnel that provided workstations with access to systems potentially interacting with ePHI. These policies are enforced on all workstations. All internal email uses HIPAA-compliant vendors.
 
 
 ##Workstation Security - 164.310c
@@ -80,7 +80,7 @@ Standard | Description
 --------- | -----------
 Audit Controls (Req) | Implement hardware, software, and/or procedural mechanisms that record and examine activity in information systems that contain or use ePHI.
 
-Provata Health, Inc. has policies in place addressing audit trail requirements. Systems within the its environment are logging to a centralized logging solution, Logstash, which is monitoring system level events and contains user id, timestamp, event, origination, and type of event. These logs are constantly monitored for suspicious events and alerts are generated to any type of behavior that is suspicious.
+Provata Health has policies in place addressing audit trail requirements. Systems within the its environment are logging to a centralized logging solution, Logstash, which is monitoring system level events and contains user id, timestamp, event, origination, and type of event. These logs are constantly monitored for suspicious events and alerts are generated to any type of behavior that is suspicious.
 
 
 ##Integrity - 164.312c(1)
@@ -98,7 +98,7 @@ Standard | Description
 --------- | -----------
 Person or Entity Authentication (Req) | Implement procedures to verify that a person or entity seeking access to ePHI is the one claimed.
 
-Provata Health, Inc. has a formal policy that describes the process of verifying a person's identity before unlocking their account, resetting their password, and/or providing access to ePHI.
+Provata Health has a formal policy that describes the process of verifying a person's identity before unlocking their account, resetting their password, and/or providing access to ePHI.
 
 
 ##Transmission Security - 164.312(e)(1)
