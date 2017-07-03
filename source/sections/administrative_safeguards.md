@@ -27,7 +27,7 @@ Standard | Description
 --------- | -----------
 Assigned Security Responsibility (Req) | Identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the entity.
 
-Provata Health has formally assigned and documented its security officer. Our security office is Sean Adkinson. He can be reached by email at [sean.adkinson@provatahealth.com](mailto:sean.adkinson@provatahealth.com).
+Provata Health has formally assigned and documented its security officer. Our security office is Aaron Goldberg. He can be reached by email at [aaron.goldberg@provatahealth.com](mailto:aaron.goldberg@provatahealth.com).
 
 
 ##Workforce Security - 164.308(a)(3)(i)
